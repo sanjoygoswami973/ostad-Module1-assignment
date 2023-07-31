@@ -20,3 +20,6 @@ document.write("Birthday: " + birthday + "</br>");
 console.log ("My name is " + Name + " and I am " + age + " years old.");
 console.log ( "I am a student: " + isStudent);
 console.log ( "I was born in " + birthday);
+
+
+// document.write("my name is " + [Name] + " and i am " + age + "years old");
